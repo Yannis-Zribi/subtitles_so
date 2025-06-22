@@ -91,7 +91,7 @@ def transcribe_with_whisper(input_file, max_words):
 
 
 
-def split_segments(segments, max_words) :
+# def split_segments(segments, max_words) :
 
     
     
